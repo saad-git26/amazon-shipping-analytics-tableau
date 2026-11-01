@@ -37,10 +37,9 @@ To answer a few simple business questions:
 3. Go to the **Dashboard 1** tab and use the filters to explore
 
 
-##  Author
-**SAAD SHAIKH**
-[LinkedIn](https://www.linkedin.com/in/saad-s-062baa286) | [saad.shaikh1551@gmail.com](mailto:saad.shaikh1551@gmail.com)
+# Author
+Saad Shaikh | saad.shaikh1551@gmail.com
+linked in : https://www.linkedin.com/in/saad-s-062baa286
+If you found this useful, please give the repo a star.
 
-⭐ If you found this useful, please give the repo a star.
-
-*README is generated with CLAUDE help.*
+README IS Generated with CLAUDE HELP
